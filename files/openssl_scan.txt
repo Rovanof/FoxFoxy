@@ -1,0 +1,1 @@
+openssl s_client -connect 2:443 -status

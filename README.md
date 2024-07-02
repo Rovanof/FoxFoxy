@@ -1,2 +1,29 @@
 # FoxFoxy
-Multi Tool
+```diff
+- \033[31m╱▏┈┈┈┈┈┈▕╲▕╲┈┈┈
+- \033[33m▏▏┈┈┈┈┈┈▕▏▔▔╲┈┈
+- \033[32m▏╲┈┈┈┈┈┈╱┈▔┈▔╲┈
+- \033[36m╲▏▔▔▔▔▔▔╯╯╰┳━━▀
+- \033[34m┈▏╯╯╯╯╯╯╯╯╱┃┈┈┈                                                     - \033[35m┈┃┏┳┳━━━┫┣┳┃┈┈┈
+- \033[31m┈┃┃┃┃┈┈┈┃┃┃┃┈┈┈
+- \033[33m┈┗┛┗┛┈┈┈┗┛┗┛┈┈┈
+- \033[36m░█▀▀░█▀█░█░█░█▀▀░█▀█░█░█░█░█
+- \033[34m░█▀▀░█░█░▄▀▄░█▀▀░█░█░▄▀▄░░█░
+- \033[35m░▀░░░▀▀▀░▀░▀░▀░░░▀▀▀░▀░▀░░▀░
+
+⚠️ No me hago responsable del su mal uso , hecho con fines educativos⚠️
+
+    🦊Fox Foxy🦊
+Una herramienta multiuso , aunque esta sea la version
+mas temprana siendo 0.0.0 ofrece connecion
+a telefonos android atraves de android debug , escaneo
+de paginas web y generador de tarjetas y validacion.
+
+Posiblemente alla algunos errores de Typing pero se solucionara en futuras ve>
+                                                                              🦊FoxFoxy🦊 Version 0.1.0
+Estoy trabajando en la mejora de acceso de android
+debug , mejora de escaneo de paginas web y 2 nuevas herramientas
+
+I🦊lnstalacion🦊l : git clone https://github.com/Rovanof/FoxFoxy.git && cd Fo>
+
+<img src="https://media3.giphy.com/media/XbXcsn1lqIGR0rmQzU/giphy.gif?cid=6c0>

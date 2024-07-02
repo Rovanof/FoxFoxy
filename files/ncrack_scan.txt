@@ -1,0 +1,1 @@
+ncrack -p 22 --user root --pass password 2

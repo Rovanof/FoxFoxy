@@ -1,0 +1,1 @@
+adb connect 2:5555 && adb shell
