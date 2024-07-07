@@ -35,4 +35,15 @@ python FoxFoxy.py (Instala las Dependecias)
 
 🦊Este script actualmente funciona en termux🦊
 
-![GIF animado](https://media3.giphy.com/media/XbXcsn1lqIGR0rmQzU/giphy.gif?cid=6c0)
+![GIF animado](https://github.com/Rovanof/FoxFoxy/issues/1#issue-2385185199)
+
+
+
+
+
+
+
+
+
+
+
